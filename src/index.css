@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  background-color: rgb(224, 190, 255);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  margin-top: 100px;
+}
+
+button {
+  margin-top: 20px;
+  margin-left: 30px;
+  padding: 10px;
+  background-color: rgb(225, 213, 255);
+  border-radius: 8px;
+  border-color: rgb(178, 96, 255);
+
+}
+
+.imagemGato{
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 50px;
+  height: 300px;
+  border-radius: 35px;
+
+}
